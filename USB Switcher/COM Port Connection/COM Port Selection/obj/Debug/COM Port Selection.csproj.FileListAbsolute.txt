@@ -1,0 +1,15 @@
+C:\Users\xiancong\OneDrive - Intel Corporation\Desktop\XC Docs\USB Switcher\COM Port Connection\COM Port Selection\bin\Debug\COM Port Selection.exe.config
+C:\Users\xiancong\OneDrive - Intel Corporation\Desktop\XC Docs\USB Switcher\COM Port Connection\COM Port Selection\bin\Debug\COM Port Selection.exe
+C:\Users\xiancong\OneDrive - Intel Corporation\Desktop\XC Docs\USB Switcher\COM Port Connection\COM Port Selection\bin\Debug\COM Port Selection.pdb
+C:\Users\xiancong\OneDrive - Intel Corporation\Desktop\XC Docs\USB Switcher\COM Port Connection\COM Port Selection\obj\Debug\COM Port Selection.csproj.AssemblyReference.cache
+C:\Users\xiancong\OneDrive - Intel Corporation\Desktop\XC Docs\USB Switcher\COM Port Connection\COM Port Selection\obj\Debug\COM Port Selection.csproj.SuggestedBindingRedirects.cache
+C:\Users\xiancong\OneDrive - Intel Corporation\Desktop\XC Docs\USB Switcher\COM Port Connection\COM Port Selection\obj\Debug\COM_Port_Selection.Form1.resources
+C:\Users\xiancong\OneDrive - Intel Corporation\Desktop\XC Docs\USB Switcher\COM Port Connection\COM Port Selection\obj\Debug\COM_Port_Selection.Properties.Resources.resources
+C:\Users\xiancong\OneDrive - Intel Corporation\Desktop\XC Docs\USB Switcher\COM Port Connection\COM Port Selection\obj\Debug\COM Port Selection.csproj.GenerateResource.cache
+C:\Users\xiancong\OneDrive - Intel Corporation\Desktop\XC Docs\USB Switcher\COM Port Connection\COM Port Selection\obj\Debug\COM Port Selection.csproj.CoreCompileInputs.cache
+C:\Users\xiancong\OneDrive - Intel Corporation\Desktop\XC Docs\USB Switcher\COM Port Connection\COM Port Selection\obj\Debug\COM Port Selection.exe
+C:\Users\xiancong\OneDrive - Intel Corporation\Desktop\XC Docs\USB Switcher\COM Port Connection\COM Port Selection\obj\Debug\COM Port Selection.pdb
+C:\Users\xiancong\OneDrive - Intel Corporation\Desktop\XC Docs\USB Switcher\COM Port Connection\COM Port Selection\bin\Debug\COM Port Selection.exe.manifest
+C:\Users\xiancong\OneDrive - Intel Corporation\Desktop\XC Docs\USB Switcher\COM Port Connection\COM Port Selection\bin\Debug\COM Port Selection.application
+C:\Users\xiancong\OneDrive - Intel Corporation\Desktop\XC Docs\USB Switcher\COM Port Connection\COM Port Selection\obj\Debug\COM Port Selection.exe.manifest
+C:\Users\xiancong\OneDrive - Intel Corporation\Desktop\XC Docs\USB Switcher\COM Port Connection\COM Port Selection\obj\Debug\COM Port Selection.application
