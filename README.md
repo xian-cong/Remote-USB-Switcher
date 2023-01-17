@@ -18,3 +18,5 @@ For subsequent use: Open .EXE application on Windows and press switch.
 
 
 ![image](https://user-images.githubusercontent.com/22144223/213028155-a02dcbfe-99a5-42d5-9352-ae61b7afbddd.png)
+![image](https://user-images.githubusercontent.com/22144223/213028560-fd2278aa-3b73-48e6-8bb3-c6e31ebda492.png)
+
